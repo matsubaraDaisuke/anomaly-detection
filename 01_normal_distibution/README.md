@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://raw.githubusercontent.com/matsubaraDaisuke/anomaly-detection/main/01_normal_distibution/data/Davis.csv)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/matsubaraDaisuke/anomaly-detection/blob/main/01_normal_distibution/01_normal_distribution.ipynb)
 
 # 1 次元正規分布に対する異常検知
 
