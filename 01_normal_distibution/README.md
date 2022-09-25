@@ -1,0 +1,14 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](!wget -O data/Davis.csv https://raw.githubusercontent.com/matsubaraDaisuke/anomaly-detection/main/01_normal_distibution/data/Davis.csv)
+
+# 1 次元正規分布に対する異常検知
+
+## 異常度
+
+- alpha = (x-mu)^2 / sigma^2
+- マハラノビス距離
+
+## 異常度閾値の決定手法
+
+- 1. 分位点法
+- 2. ホテリング法
+- 3. ラベリング法
