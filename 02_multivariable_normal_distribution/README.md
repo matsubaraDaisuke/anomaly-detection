@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/matsubaraDaisuke/anomaly-detection/blob/main/02_multivariable_normal_distribution/02_multivariable_normal_distributin.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/matsubaraDaisuke/anomaly-detection/blob/main/02_multivariable_normal_distribution/02_multivariable_normal_distribution.ipynb)
 
 # 多変数データの異常検知
 
