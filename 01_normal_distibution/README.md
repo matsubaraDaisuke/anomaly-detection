@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/matsubaraDaisuke/anomaly-detection/blob/feat/01_normal_distribution/01_normal_distibution/01_normal_distribution.ipynb)
+
 # 1 次元正規分布に対する異常検知
 
 ## 異常度
